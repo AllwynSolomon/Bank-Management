@@ -27,17 +27,17 @@ class PD
     public PD()
     {
 
-        name.AddRange(new List<string>() { "Alen", "Meghana", "Manan", "Allwyn", "Mark" });
+        name.AddRange(new List<string>() { "Al", "Megh", "Manan", "All", "Mark" });
         address.AddRange(new List<string>() { "Chrsit", "Canada", "USA", "Qatar", "Inda" });
-        email.AddRange(new List<string>() { "alen@", "Meghana@", "Manan@", "Allwyn@", "Mark@" });
+        email.AddRange(new List<string>() { "alen@", "Megh@", "Manan@", "All@", "Mark@" });
         gender.AddRange(new List<string>() { "M", "F", "M", "M", "M" });
         marriage.AddRange(new List<string>() { "Y", "N", "Y", "N", "Y" });
-        username.AddRange(new List<string>() { "Alen", "Meghana", "Manan", "Allwyn", "Mark" });
+        username.AddRange(new List<string>() { "Al", "Megh", "Manan", "All", "Mark" });
         password.AddRange(new List<string>() { "1234", "2345", "3456", "4567", "5678" });
         age.AddRange(new List<int>() { 20, 20, 21, 19, 24 });
         Mpin.AddRange(new List<int>() { 0987, 9876, 8765, 7654, 6543 });
         phone.AddRange(new List<Int64>() { 12345, 23456, 34567, 45678, 56789 });
-        accnum.AddRange(new List<Int64>() { 2060316, 2060469, 2060256, 2060318, 2060344 });
+        accnum.AddRange(new List<Int64>() { 206016, 206069, 206056, 206018, 206044 });
         money.AddRange(new List<Int64>() { 1000, 20000, 2000, 20000, 9999 });
     }
 }
