@@ -31,5 +31,14 @@ In addition, the system should be user-friendly, with a simple and intuitive int
 
 Overall, the Bank Account System should be a reliable and secure platform that meets the needs of our customers while adhering to industry best practices and standards.
 
-OUTPUT
+
+
+Sample OUTPUT
+
+<img width="376" alt="Screenshot 2024-03-05 at 12 47 52 pm" src="https://github.com/AllwynSolomon/Bank-Management/assets/100484472/6e1a1c01-206b-4e4d-9338-a4c8dcec8bcd">
+<img width="376" alt="Screenshot 2024-03-05 at 12 47 59 pm" src="https://github.com/AllwynSolomon/Bank-Management/assets/100484472/5e1638b2-8c49-4e06-872d-9cf57640fb88">
+<img width="376" alt="Screenshot 2024-03-05 at 12 48 11 pm" src="https://github.com/AllwynSolomon/Bank-Management/assets/100484472/77e320a9-194d-445e-b555-59202341a5fa">
+<img width="376" alt="Screenshot 2024-03-05 at 12 48 29 pm" src="https://github.com/AllwynSolomon/Bank-Management/assets/100484472/779bf2e0-f95d-46e9-b894-124d57dd5301">
+<img width="376" alt="Screenshot 2024-03-05 at 12 48 32 pm" src="https://github.com/AllwynSolomon/Bank-Management/assets/100484472/6c1c816f-0eff-42d0-a8ab-6ac2d623fa1c">
+<img width="933" alt="Screenshot 2024-03-05 at 12 48 46 pm" src="https://github.com/AllwynSolomon/Bank-Management/assets/100484472/02d6bc11-773a-4255-a301-fdc64c907d05">
 
